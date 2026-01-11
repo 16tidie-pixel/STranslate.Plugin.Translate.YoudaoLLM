@@ -1,0 +1,12 @@
+﻿{
+  "PluginID": "1A79BBCB2427B6D1ED758FD625F7130B",
+  "Name": "YoudaoLLM",
+  "Description": "Youdao LLM plugin for stranslate",
+  "Author": "16tidie-pixel",
+  "Version": "1.0.0",
+  "Homepage": "https://github.com/16tidie-pixel/STranslate.Plugin.Translate.YoudaoLLM",
+  "Repository": "https://github.com/16tidie-pixel/STranslate.Plugin.Translate.YoudaoLLM",
+  "License": "MIT",
+  "Type": "translate",
+  "Dependencies": []
+}
